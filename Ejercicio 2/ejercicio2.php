@@ -17,12 +17,12 @@ if($_POST){
     <title>Document</title>
 </head>
 <body>
-    
     <form action="ejercicio2.php" method="post">
     Nombre:
     <input type="text" name="txtNombre" id="">
     <br/>
     <input type="submit" value="Enviar">
+    <a href="../index.html">Regresar</a>
 </form>
 </body>
 </html>
